@@ -42,6 +42,6 @@ PASSWORD=your_16_char_app_password
 
 ### 3. Launch Dashboard
 ```bash
-run flask
+flask run
 ```
 **Open**: [http://127.0.0.1:5000](http://127.0.0.1:5000)
