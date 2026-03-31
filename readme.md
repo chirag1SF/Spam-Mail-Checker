@@ -25,7 +25,7 @@ An end-to-end **NLP application** that classifies emails as **Spam** or **Ham** 
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/yourusername/Spam-Mail-Checker.git
+git clone https://github.com/chirag1SF/Spam-Mail-Checker.git
 cd Spam-Mail-Checker
 pip install -r requirements.txt
 python -m spacy download en_core_web_lg
